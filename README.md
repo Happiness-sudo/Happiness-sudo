@@ -36,6 +36,6 @@ I enjoy building software that solves real-world problems. I work across differe
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Happiness--sudo-181717?style=for-the-badge&logo=github)](https://github.com/Happiness-sudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happiness-ngeete-a1641837a/)
 
-<!-- Add your LinkedIn and portfolio links here -->
+[![GitHub](https://img.shields.io/badge/GitHub-Happiness--sudo-181717?style=for-the-badge&logo=github)](https://github.com/Happiness-sudo)
